@@ -106,4 +106,10 @@ let obj = Object(params)
 
 * https://github.com/dwi-handoyo/Objects-in-Javascript/blob/main/6-prototypeClass.js
 
+7. Object by Function Expression
+
+* https://github.com/dwi-handoyo/Objects-in-Javascript/blob/main/7-objectFunctionExpression.js
+
+
+
 
